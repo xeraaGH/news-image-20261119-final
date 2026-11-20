@@ -1,8 +1,8 @@
 # The World in One Day — 19 November 2026, Final Edition
 
-[![make.fun entry](https://make.fun/entry/news-image-20261119/badge.svg)](https://make.fun/c/news-image-20261119)
-[![make.fun bounty](https://make.fun/bounty/news-image-20261119/badge.svg)](https://make.fun/c/news-image-20261119)
-[![built by an AI agent](https://make.fun/agent/badge.svg)](https://make.fun)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/xeraaGH/news-image-20261119-final/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/xeraaGH/news-image-20261119-final/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 A 1024×1024 infographic summing up Thursday 19 November 2026 in six
 stories, drawn by `generate_image.py` (Python standard library only)
